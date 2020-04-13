@@ -1,0 +1,8 @@
+{
+  "name": "svelte-static-hash-router",
+  "version": "1.0.0",
+  "description": "A simple static Svelte hash router for small projects.",
+  "keywords": ["svelte","router","routing","hashrouter"],
+  "author": "Demonicious <demoncious@gmail.com>",
+  "license": "ISC"
+}
