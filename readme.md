@@ -1,7 +1,7 @@
 ### Svelte Static Hash Router
 A Simple & Easy to use Static page router for Svelte.
 #### 1. Installation
-It's available on NPM under the name 'svelte-static-hash-router'
+It's available on NPM under the name 'svelte-static-hash-router'.
 You can Install the package with the command below:
 
 `npm i -D svelte-static-hash-router`
